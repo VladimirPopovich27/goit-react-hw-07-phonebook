@@ -10,10 +10,10 @@ justify-content: center;
 box-sizing: border-box;
 width: 500px;
 height: 200px;
-border: 5px solid #f44336;
-padding: 30px;
+border: 5px solid #00CED1;
+padding: 100px;
 margin: 0 auto;
-background-color: #ffeb3b;
+background-color: #40E0D0;
 
 `;
 
@@ -21,6 +21,8 @@ export const FormButton  = styled.button`
 
 display: inline-block;
 margin-top: 30px;
+margin-left: 90px;
+
 
 width: 120px;
 height: 30px;
@@ -28,10 +30,10 @@ height: 30px;
 font-size: 10px;
 font-weight: 600;
 text-transform: uppercase;
-border:2px solid #FF4500;
+border:2px solid #00CED1;
 border-radius: 4px;
 box-shadow: -4px 3px 13px 1px rgba(0,0,0,0.75);
-background-color: #FA8072;
+background-color: #40E0D0;
 cursor: pointer;
 
 &:hover,

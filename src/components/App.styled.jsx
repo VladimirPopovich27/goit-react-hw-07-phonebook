@@ -7,6 +7,6 @@ margin:0 auto;
 margin-top: 20px;
 
 width: 600px;
-background-color: #00FF7F;
+background-color: #AFEEEE;
 
 `
